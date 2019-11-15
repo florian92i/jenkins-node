@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "PORT=8088 node index.js",
+    "start": "PORT=80 node index.js",
     "test": "jest"
   },
   "author": "",
