@@ -6,7 +6,7 @@ app.set('port', process.env.PORT);
 
 app.get('/', function(req, res) {
     res.setHeader('Content-Type', 'text/plain');
-    res.send('Vous êtes à l\'accueil BBBBBBBRRRRRRRRRRRAAAAAAAAAAWWWWWWWWWWWWW');
+    res.send('Yo');
 });
 
 app.listen(80);
