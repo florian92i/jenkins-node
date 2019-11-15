@@ -1,0 +1,17 @@
+{
+  "name": "project-node",
+  "version": "1.0.0",
+  "description": "test jenkins",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "PORT=8081 node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
